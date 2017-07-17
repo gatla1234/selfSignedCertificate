@@ -16,7 +16,7 @@ public class EmployeeController {
 		public Employee firstPage() {
 
 			Employee emp = new Employee();
-			emp.setName("Teja Gatla");
+			emp.setName("Egiants");
 			emp.setDesignation("Sr.java/j2ee Developer");
 			emp.setEmpId("101");
 			emp.setSalary(8000);
